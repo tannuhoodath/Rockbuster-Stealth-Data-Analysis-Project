@@ -32,5 +32,9 @@ The data set contains information about Rockbuster’s film inventory, customers
 [Data Dictionary](./Data%20Dictionary.pdf)
 
 
+# Visualizations
+[Tableau Dashboard](https://public.tableau.com/app/profile/tannu.hooda/viz/Rockbuster_17656525162790/Genre)
+
+
 # Insights
 [Rockbuster: Final Presentation](./Rockbuster%20Analysis.pdf)
