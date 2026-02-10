@@ -29,7 +29,7 @@ The data set contains information about Rockbuster’s film inventory, customers
 
 
 # Data Dictionary
-[Data Dictionary](./data%20dictionary.pdf)
+[Data Dictionary](./Data%20Dictionary.pdf)
 
 
 # Insights
